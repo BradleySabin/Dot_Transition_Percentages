@@ -1,0 +1,243 @@
+﻿Response,SortOrder,SelectionGroup,Selection,Value,MinMiddleMax
+1.0-1.49%,2,Company Size,100-749 Employees,2.88,Min
+1.5-2.49%,3,Company Size,100-749 Employees,3.84,Middle
+3.01-3.49%,7,Company Size,100-749 Employees,4.22,Middle
+Less than 1%,1,Company Size,100-749 Employees,4.22,Middle
+More than 5%,10,Company Size,100-749 Employees,4.22,Middle
+3.5-3.99%,8,Company Size,100-749 Employees,4.41,Middle
+4.0-5.0%,9,Company Size,100-749 Employees,6.91,Middle
+2.5-2.99%,5,Company Size,100-749 Employees,11.13,Middle
+Undecided,11,Company Size,100-749 Employees,11.13,Middle
+2.0-2.49%,4,Company Size,100-749 Employees,16.31,Middle
+3.00%,6,Company Size,100-749 Employees,30.71,Max
+3.5-3.99%,8,Company Size,1-99 Employees,3.39,Min
+3.01-3.49%,7,Company Size,1-99 Employees,3.54,Middle
+1.5-2.49%,3,Company Size,1-99 Employees,4.13,Middle
+1.0-1.49%,2,Company Size,1-99 Employees,4.87,Middle
+More than 5%,10,Company Size,1-99 Employees,5.16,Middle
+2.5-2.99%,5,Company Size,1-99 Employees,7.08,Middle
+Less than 1%,1,Company Size,1-99 Employees,9.59,Middle
+4.0-5.0%,9,Company Size,1-99 Employees,10.47,Middle
+2.0-2.49%,4,Company Size,1-99 Employees,12.98,Middle
+Undecided,11,Company Size,1-99 Employees,16.37,Middle
+3.00%,6,Company Size,1-99 Employees,22.42,Max
+More than 5%,10,Company Size,"5,000 or More Employees",1.42,Min
+1.0-1.49%,2,Company Size,"5,000 or More Employees",2.37,Middle
+3.5-3.99%,8,Company Size,"5,000 or More Employees",2.84,Middle
+1.5-2.49%,3,Company Size,"5,000 or More Employees",3.32,Middle
+4.0-5.0%,9,Company Size,"5,000 or More Employees",3.32,Middle
+3.01-3.49%,7,Company Size,"5,000 or More Employees",7.11,Middle
+Undecided,11,Company Size,"5,000 or More Employees",7.11,Middle
+Less than 1%,1,Company Size,"5,000 or More Employees",8.06,Middle
+2.0-2.49%,4,Company Size,"5,000 or More Employees",18.01,Middle
+2.5-2.99%,5,Company Size,"5,000 or More Employees",18.01,Middle
+3.00%,6,Company Size,"5,000 or More Employees",28.44,Max
+1.0-1.49%,2,Company Size,"750-4,999 Employees",1.91,Min
+More than 5%,10,Company Size,"750-4,999 Employees",2.67,Middle
+3.5-3.99%,8,Company Size,"750-4,999 Employees",3.05,Middle
+4.0-5.0%,9,Company Size,"750-4,999 Employees",3.44,Middle
+1.5-2.49%,3,Company Size,"750-4,999 Employees",3.82,Middle
+Less than 1%,1,Company Size,"750-4,999 Employees",4.96,Middle
+3.01-3.49%,7,Company Size,"750-4,999 Employees",7.63,Middle
+Undecided,11,Company Size,"750-4,999 Employees",12.98,Middle
+2.5-2.99%,5,Company Size,"750-4,999 Employees",15.65,Middle
+2.0-2.49%,4,Company Size,"750-4,999 Employees",16.79,Middle
+3.00%,6,Company Size,"750-4,999 Employees",27.1,Max
+1.0-1.49%,2,Industry,Agencies & Consultancies,1.72,Min
+2.5-2.99%,5,Industry,Agencies & Consultancies,1.72,Middle
+3.5-3.99%,8,Industry,Agencies & Consultancies,1.72,Middle
+1.5-2.49%,3,Industry,Agencies & Consultancies,3.45,Middle
+3.01-3.49%,7,Industry,Agencies & Consultancies,3.45,Middle
+2.0-2.49%,4,Industry,Agencies & Consultancies,6.9,Middle
+More than 5%,10,Industry,Agencies & Consultancies,10.34,Middle
+Less than 1%,1,Industry,Agencies & Consultancies,13.79,Middle
+4.0-5.0%,9,Industry,Agencies & Consultancies,15.52,Middle
+Undecided,11,Industry,Agencies & Consultancies,18.97,Middle
+3.00%,6,Industry,Agencies & Consultancies,22.41,Max
+3.5-3.99%,8,Industry,Construction,0,Min
+1.0-1.49%,2,Industry,Construction,1.27,Middle
+4.0-5.0%,9,Industry,Construction,1.27,Middle
+1.5-2.49%,3,Industry,Construction,3.8,Middle
+3.01-3.49%,7,Industry,Construction,3.8,Middle
+More than 5%,10,Industry,Construction,5.06,Middle
+Less than 1%,1,Industry,Construction,10.13,Middle
+2.5-2.99%,5,Industry,Construction,11.39,Middle
+3.00%,6,Industry,Construction,18.99,Middle
+2.0-2.49%,4,Industry,Construction,21.52,Middle
+Undecided,11,Industry,Construction,22.78,Max
+1.0-1.49%,2,Industry,Education,1.56,Min
+More than 5%,10,Industry,Education,1.56,Middle
+1.5-2.49%,3,Industry,Education,4.69,Middle
+2.5-2.99%,5,Industry,Education,4.69,Middle
+3.5-3.99%,8,Industry,Education,4.69,Middle
+4.0-5.0%,9,Industry,Education,4.69,Middle
+3.01-3.49%,7,Industry,Education,6.25,Middle
+Less than 1%,1,Industry,Education,14.06,Middle
+3.00%,6,Industry,Education,15.63,Middle
+Undecided,11,Industry,Education,15.63,Middle
+2.0-2.49%,4,Industry,Education,26.56,Max
+4.0-5.0%,9,Industry,Energy & Utilities ,0,Min
+1.0-1.49%,2,Industry,Energy & Utilities ,2.17,Middle
+More than 5%,10,Industry,Energy & Utilities ,2.17,Middle
+1.5-2.49%,3,Industry,Energy & Utilities ,4.35,Middle
+Less than 1%,1,Industry,Energy & Utilities ,4.35,Middle
+3.01-3.49%,7,Industry,Energy & Utilities ,6.52,Middle
+3.5-3.99%,8,Industry,Energy & Utilities ,6.52,Middle
+2.0-2.49%,4,Industry,Energy & Utilities ,8.7,Middle
+Undecided,11,Industry,Energy & Utilities ,10.87,Middle
+2.5-2.99%,5,Industry,Energy & Utilities ,13.04,Middle
+3.00%,6,Industry,Energy & Utilities ,41.3,Max
+More than 5%,10,Industry,Engineering & Science,3.08,Min
+1.0-1.49%,2,Industry,Engineering & Science,4.62,Middle
+3.01-3.49%,7,Industry,Engineering & Science,4.62,Middle
+3.5-3.99%,8,Industry,Engineering & Science,4.62,Middle
+Less than 1%,1,Industry,Engineering & Science,4.62,Middle
+1.5-2.49%,3,Industry,Engineering & Science,6.15,Middle
+2.5-2.99%,5,Industry,Engineering & Science,7.69,Middle
+Undecided,11,Industry,Engineering & Science,12.31,Middle
+2.0-2.49%,4,Industry,Engineering & Science,13.85,Middle
+4.0-5.0%,9,Industry,Engineering & Science,13.85,Middle
+3.00%,6,Industry,Engineering & Science,24.62,Max
+More than 5%,10,Industry,Finance & Insurance,0.72,Min
+1.0-1.49%,2,Industry,Finance & Insurance,1.45,Middle
+3.5-3.99%,8,Industry,Finance & Insurance,2.9,Middle
+1.5-2.49%,3,Industry,Finance & Insurance,3.62,Middle
+Less than 1%,1,Industry,Finance & Insurance,5.07,Middle
+3.01-3.49%,7,Industry,Finance & Insurance,6.52,Middle
+4.0-5.0%,9,Industry,Finance & Insurance,10.87,Middle
+Undecided,11,Industry,Finance & Insurance,10.87,Middle
+2.5-2.99%,5,Industry,Finance & Insurance,13.77,Middle
+2.0-2.49%,4,Industry,Finance & Insurance,17.39,Middle
+3.00%,6,Industry,Finance & Insurance,26.81,Max
+1.0-1.49%,2,Industry,"Food, Beverage & Hospitality",2.08,Min
+3.5-3.99%,8,Industry,"Food, Beverage & Hospitality",2.08,Min
+1.5-2.49%,3,Industry,"Food, Beverage & Hospitality",4.17,Middle
+4.0-5.0%,9,Industry,"Food, Beverage & Hospitality",4.17,Middle
+More than 5%,10,Industry,"Food, Beverage & Hospitality",6.25,Middle
+2.0-2.49%,4,Industry,"Food, Beverage & Hospitality",10.42,Middle
+2.5-2.99%,5,Industry,"Food, Beverage & Hospitality",10.42,Middle
+Undecided,11,Industry,"Food, Beverage & Hospitality",10.42,Middle
+3.01-3.49%,7,Industry,"Food, Beverage & Hospitality",12.5,Middle
+Less than 1%,1,Industry,"Food, Beverage & Hospitality",12.5,Middle
+3.00%,6,Industry,"Food, Beverage & Hospitality",25,Max
+3.01-3.49%,7,Industry,Health Care and Social Assistance,2.15,Min
+More than 5%,10,Industry,Health Care and Social Assistance,2.15,Min
+1.5-2.49%,3,Industry,Health Care and Social Assistance,2.69,Middle
+3.5-3.99%,8,Industry,Health Care and Social Assistance,3.23,Middle
+4.0-5.0%,9,Industry,Health Care and Social Assistance,3.76,Middle
+1.0-1.49%,2,Industry,Health Care and Social Assistance,8.06,Middle
+Less than 1%,1,Industry,Health Care and Social Assistance,9.14,Middle
+Undecided,11,Industry,Health Care and Social Assistance,9.68,Middle
+2.5-2.99%,5,Industry,Health Care and Social Assistance,12.37,Middle
+3.00%,6,Industry,Health Care and Social Assistance,22.04,Middle
+2.0-2.49%,4,Industry,Health Care and Social Assistance,24.73,Max
+More than 5%,10,Industry,Manufacturing,2.33,Min
+3.5-3.99%,8,Industry,Manufacturing,2.79,Middle
+1.5-2.49%,3,Industry,Manufacturing,3.26,Middle
+1.0-1.49%,2,Industry,Manufacturing,4.19,Middle
+3.01-3.49%,7,Industry,Manufacturing,4.65,Middle
+4.0-5.0%,9,Industry,Manufacturing,5.58,Middle
+Less than 1%,1,Industry,Manufacturing,5.58,Middle
+2.5-2.99%,5,Industry,Manufacturing,10.7,Middle
+Undecided,11,Industry,Manufacturing,11.63,Middle
+2.0-2.49%,4,Industry,Manufacturing,14.42,Middle
+3.00%,6,Industry,Manufacturing,34.88,Max
+1.5-2.49%,3,Industry,Nonprofit,2.38,Min
+3.5-3.99%,8,Industry,Nonprofit,3.97,Middle
+More than 5%,10,Industry,Nonprofit,3.97,Middle
+3.01-3.49%,7,Industry,Nonprofit,5.56,Middle
+Less than 1%,1,Industry,Nonprofit,5.56,Middle
+1.0-1.49%,2,Industry,Nonprofit,6.35,Middle
+4.0-5.0%,9,Industry,Nonprofit,7.14,Middle
+2.5-2.99%,5,Industry,Nonprofit,8.73,Middle
+Undecided,11,Industry,Nonprofit,10.32,Middle
+2.0-2.49%,4,Industry,Nonprofit,18.25,Middle
+3.00%,6,Industry,Nonprofit,27.78,Max
+1.0-1.49%,2,Industry,Other Industries,3.37,Min
+3.5-3.99%,8,Industry,Other Industries,3.37,Min
+More than 5%,10,Industry,Other Industries,3.75,Middle
+1.5-2.49%,3,Industry,Other Industries,4.49,Middle
+3.01-3.49%,7,Industry,Other Industries,6.37,Middle
+Less than 1%,1,Industry,Other Industries,6.74,Middle
+4.0-5.0%,9,Industry,Other Industries,7.12,Middle
+2.0-2.49%,4,Industry,Other Industries,12.36,Middle
+2.5-2.99%,5,Industry,Other Industries,13.11,Middle
+Undecided,11,Industry,Other Industries,14.98,Middle
+3.00%,6,Industry,Other Industries,24.34,Max
+More than 5%,10,Industry,Retail & Customer Service,0,Min
+3.5-3.99%,8,Industry,Retail & Customer Service,1.64,Middle
+1.0-1.49%,2,Industry,Retail & Customer Service,3.28,Middle
+1.5-2.49%,3,Industry,Retail & Customer Service,3.28,Middle
+3.01-3.49%,7,Industry,Retail & Customer Service,3.28,Middle
+4.0-5.0%,9,Industry,Retail & Customer Service,6.56,Middle
+Less than 1%,1,Industry,Retail & Customer Service,6.56,Middle
+2.0-2.49%,4,Industry,Retail & Customer Service,11.48,Middle
+Undecided,11,Industry,Retail & Customer Service,13.11,Middle
+2.5-2.99%,5,Industry,Retail & Customer Service,16.39,Middle
+3.00%,6,Industry,Retail & Customer Service,34.43,Max
+1.0-1.49%,2,Industry,Technology (including software),0.44,Min
+1.5-2.49%,3,Industry,Technology (including software),2.21,Middle
+Less than 1%,1,Industry,Technology (including software),3.54,Middle
+3.01-3.49%,7,Industry,Technology (including software),4.42,Middle
+3.5-3.99%,8,Industry,Technology (including software),6.19,Middle
+2.0-2.49%,4,Industry,Technology (including software),7.08,Middle
+More than 5%,10,Industry,Technology (including software),8.85,Middle
+4.0-5.0%,9,Industry,Technology (including software),11.5,Middle
+2.5-2.99%,5,Industry,Technology (including software),12.39,Middle
+Undecided,11,Industry,Technology (including software),14.16,Middle
+3.00%,6,Industry,Technology (including software),29.2,Max
+1.0-1.49%,2,Overall,Overall,3.45,Min
+3.5-3.99%,8,Overall,Overall,3.57,Middle
+1.5-2.49%,3,Overall,Overall,3.87,Middle
+More than 5%,10,Overall,Overall,3.99,Middle
+3.01-3.49%,7,Overall,Overall,4.88,Middle
+Less than 1%,1,Overall,Overall,7.02,Middle
+4.0-5.0%,9,Overall,Overall,7.32,Middle
+2.5-2.99%,5,Overall,Overall,11.19,Middle
+Undecided,11,Overall,Overall,13.04,Middle
+2.0-2.49%,4,Overall,Overall,15.24,Middle
+3.00%,6,Overall,Overall,26.43,Max
+3.5-3.99%,8,Top vs Non-top Performers,Non-top Performers,2.09,Min
+1.0-1.49%,2,Top vs Non-top Performers,Non-top Performers,2.89,Middle
+More than 5%,10,Top vs Non-top Performers,Non-top Performers,3.21,Middle
+3.01-3.49%,7,Top vs Non-top Performers,Non-top Performers,3.69,Middle
+1.5-2.49%,3,Top vs Non-top Performers,Non-top Performers,3.85,Middle
+4.0-5.0%,9,Top vs Non-top Performers,Non-top Performers,7.54,Middle
+Less than 1%,1,Top vs Non-top Performers,Non-top Performers,9.15,Middle
+2.5-2.99%,5,Top vs Non-top Performers,Non-top Performers,10.91,Middle
+Undecided,11,Top vs Non-top Performers,Non-top Performers,16.05,Middle
+2.0-2.49%,4,Top vs Non-top Performers,Non-top Performers,16.85,Middle
+3.00%,6,Top vs Non-top Performers,Non-top Performers,23.76,Max
+1.0-1.49%,2,Top vs Non-top Performers,Top Performers,1.88,Min
+1.5-2.49%,3,Top vs Non-top Performers,Top Performers,3.13,Middle
+Less than 1%,1,Top vs Non-top Performers,Top Performers,5.33,Middle
+3.5-3.99%,8,Top vs Non-top Performers,Top Performers,5.96,Middle
+More than 5%,10,Top vs Non-top Performers,Top Performers,6.27,Middle
+3.01-3.49%,7,Top vs Non-top Performers,Top Performers,7.21,Middle
+Undecided,11,Top vs Non-top Performers,Top Performers,7.21,Middle
+4.0-5.0%,9,Top vs Non-top Performers,Top Performers,9.09,Middle
+2.0-2.49%,4,Top vs Non-top Performers,Top Performers,10.97,Middle
+2.5-2.99%,5,Top vs Non-top Performers,Top Performers,12.23,Middle
+3.00%,6,Top vs Non-top Performers,Top Performers,30.72,Max
+More than 5%,10,US vs CA,CA,1.64,Min
+3.01-3.49%,7,US vs CA,CA,2.73,Middle
+3.5-3.99%,8,US vs CA,CA,3.28,Middle
+1.5-2.49%,3,US vs CA,CA,4.37,Middle
+4.0-5.0%,9,US vs CA,CA,4.92,Middle
+1.0-1.49%,2,US vs CA,CA,8.74,Middle
+Less than 1%,1,US vs CA,CA,9.29,Middle
+3.00%,6,US vs CA,CA,10.38,Middle
+2.5-2.99%,5,US vs CA,CA,11.48,Middle
+Undecided,11,US vs CA,CA,16.39,Middle
+2.0-2.49%,4,US vs CA,CA,26.78,Max
+1.0-1.49%,2,US vs CA,US,2.94,Min
+3.5-3.99%,8,US vs CA,US,3.59,Middle
+More than 5%,10,US vs CA,US,3.66,Middle
+1.5-2.49%,3,US vs CA,US,3.73,Middle
+3.01-3.49%,7,US vs CA,US,5.31,Middle
+Less than 1%,1,US vs CA,US,6.31,Middle
+4.0-5.0%,9,US vs CA,US,7.53,Middle
+2.5-2.99%,5,US vs CA,US,10.69,Middle
+Undecided,11,US vs CA,US,12.55,Middle
+2.0-2.49%,4,US vs CA,US,13.92,Middle
+3.00%,6,US vs CA,US,29.77,Max

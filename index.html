@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>CBPR Dots</title>
+		<script src="https://d3js.org/d3.v4.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js"></script>
+		<style type="text/css">
+			p {
+				font-family: helvetica;
+				font-size: 22px;
+				color: rgb(4,162,140);
+				text-align: center;
+			}
+
+			h2 {
+				font-family: ;
+				font-size: 18px;
+				color: black;
+				text-align: center;
+				font-family: helvetica;
+			}
+
+			#myChart47 {
+				svg{
+					align-content: center;
+				}
+			}
+
+			.xaxis {
+	            font-size: 12px;
+	            font-weight: bold;
+				color: #57595D;
+				font-family: helvetica;
+	        }
+        
+	    	.xaxis path,
+	        .xaxis line {
+	            fill: none;
+	            display: none;
+	        }
+
+	        .yaxis {
+	            font-size: 12px;
+	            font-weight: bold;
+				color: #57595D;
+				font-family: helvetica;
+	        }
+
+	        .yaxis path,
+	        .yaxis line {
+	            fill: none;
+	            display: none;
+	        }
+
+	        .grid line {
+			  	stroke: lightgrey;
+			  	stroke-opacity: 1;
+			  	shape-rendering: crispEdges;
+			  	stroke-width:1;
+			}
+
+			.grid path {
+			  	stroke-width: 0;
+			}
+
+			#tooltip47 {
+				position: absolute;
+				width: auto;
+				height: auto;
+				padding: 10px;
+				background-color: white;
+				-webkit-border-radius: 10px;
+				-moz-border-radius: 10px;
+				border-radius: 10px;
+				-webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+				-moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+				box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+				pointer-events: none;
+				align-content: left;
+			}
+			
+			#tooltip47.hidden {
+				display: none;
+			}
+			
+			#tooltip47 p {
+				margin: 0;
+				font-family: helvetica;
+				font-size: 14px;
+				line-height: 25px;
+				text-align: left;
+			}
+
+
+		</style>
+	</head>
+	<body style="background: white; font-weight: bold;"> 
+		<div>
+			<h2>PERCENTAGE EMPLOYERS PLAN TO INCREASE BASE PAY BY IN 2021</h2>
+		</div>	
+
+		<div id = "dropdownselector" style ="text-align: center; margin-bottom: 2%; margin-top: 2%; font-family: helvetica; font-size: 14px;" >
+		    <label>Select a Category:  
+			    <select id="d3-dropdown" style = "font-family: helvetica; font-size: 14px;">
+				  <option value="Company Size">Company Size</option>
+				  <option value="Top vs Non-top Performers">Top vs Non-Top Performers</option>
+				  <option value="US vs CA">US vs CA</option>
+				  <option value="Industry">Industry</option>
+				</select>
+		    </label>
+		</div>
+
+		<div style="width:830; text-align: center; font-family: helvetica; font-size: 12px;">
+		  <svg width="700" height="500" id="myChart47" ></svg>
+		  <svg width="130" height="500" id="myLegend47" ></svg>
+		</div>
+
+		<div id="tooltip47" class="hidden" style="text-align:center"	>
+			<p><strong><span id="TooltipTitle47" style="font-size: 14px;color:black"></span></strong></p>
+			<p><span id="TooltipText47" style="color:black; font-size: 12px"></span></p>
+		</div>
+
+		<script type="text/javascript" src="DotsTransition.js"> </script>
+	</body>
+</html>
